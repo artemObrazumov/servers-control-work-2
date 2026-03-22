@@ -1,1 +1,15 @@
-# servers-control-work-2
+# Демонстрация работы
+
+![](image/image.png)
+
+![](image/image2.png)
+
+![](image/image3.png)
+
+![](image/image4.png)
+
+![](image/image5.png)
+
+![](image/image6.png)
+
+![](image/image8.png)
